@@ -1,0 +1,12 @@
+{
+    "publicidad": [
+        "https://cdn.discordapp.com/attachments/991760458614841374/1021791916385386548/banner.gif", 
+        "https://cdn.discordapp.com/attachments/991760458614841374/1021791931413581925/banner_2.gif"
+    ],
+    "news": [
+        {"title": "", "body":"", "img":"", "date":""},
+        {"title": "", "body":"", "img":"", "date":""},
+        {"title": "", "body":"", "img":"", "date":""}
+    ],
+    "version": "0.1"
+}
