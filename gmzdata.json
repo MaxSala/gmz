@@ -4,9 +4,7 @@
         "https://cdn.discordapp.com/attachments/991760458614841374/1021791931413581925/banner_2.gif"
     ],
     "news": [
-        {"title": "", "body":"", "img":"", "date":""},
-        {"title": "", "body":"", "img":"", "date":""},
-        {"title": "", "body":"", "img":"", "date":""}
+        {"title": "GMZ", "body":"HOLA TEST", "img":"", "date":"21/09/2022"}
     ],
     "version": "0.1"
 }
